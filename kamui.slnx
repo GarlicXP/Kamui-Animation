@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="kamui/kamui.vcxproj" Id="4a6a99ea-940a-4ccb-b974-2c4bdb0f2f29" />
+</Solution>
